@@ -1,0 +1,13 @@
+{
+  "$GMScript":"",
+  "%Name":"Group_Code",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"Group_Code",
+  "parent":{
+    "name":"TutorialDebugConsole",
+    "path":"TutorialDebugConsole.yyp",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}
