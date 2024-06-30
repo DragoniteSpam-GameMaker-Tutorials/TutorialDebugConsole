@@ -1,9 +1,9 @@
 {
   "$GMScript":"v1",
-  "%Name":"Group_Code",
+  "%Name":"scr_console_fun",
   "isCompatibility":false,
   "isDnD":false,
-  "name":"Group_Code",
+  "name":"scr_console_fun",
   "parent":{
     "name":"TutorialDebugConsole",
     "path":"TutorialDebugConsole.yyp",

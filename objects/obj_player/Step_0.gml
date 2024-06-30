@@ -1,8 +1,12 @@
 var dx = 0, dy = 0;
 
 running = false;
+/*
+is_debug_overlay_open()
 
-if (casting_frame == 0) {
+is_mouse_over_debug_overlay()
+*/
+if (casting_frame == 0 && !is_keyboard_used_debug_overlay()) {
     if (!talking) {
         if (keyboard_check(vk_left) || keyboard_check(ord("A"))) {
             dx = -1;

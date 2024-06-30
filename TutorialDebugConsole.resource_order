@@ -11,6 +11,7 @@
     {"name":"Room1","order":14,"path":"rooms/Room1/Room1.yy",},
     {"name":"Room2","order":42,"path":"rooms/Room2/Room2.yy",},
     {"name":"Group_Code","order":32,"path":"scripts/Group_Code/Group_Code.yy",},
+    {"name":"scr_console_fun","order":46,"path":"scripts/scr_console_fun/scr_console_fun.yy",},
     {"name":"bgm_idle_with_accordions","order":40,"path":"sounds/bgm_idle_with_accordions/bgm_idle_with_accordions.yy",},
     {"name":"se_coin","order":41,"path":"sounds/se_coin/se_coin.yy",},
     {"name":"se_footstep","order":45,"path":"sounds/se_footstep/se_footstep.yy",},

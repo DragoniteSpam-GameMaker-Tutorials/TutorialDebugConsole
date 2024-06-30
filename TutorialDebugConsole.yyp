@@ -17,7 +17,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.4.1.152",
+    "IDEVersion":"2024.600.0.571",
   },
   "name":"TutorialDebugConsole",
   "resources":[
@@ -30,6 +30,7 @@
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Group_Code","path":"scripts/Group_Code/Group_Code.yy",},},
+    {"id":{"name":"scr_console_fun","path":"scripts/scr_console_fun/scr_console_fun.yy",},},
     {"id":{"name":"bgm_idle_with_accordions","path":"sounds/bgm_idle_with_accordions/bgm_idle_with_accordions.yy",},},
     {"id":{"name":"se_coin","path":"sounds/se_coin/se_coin.yy",},},
     {"id":{"name":"se_footstep","path":"sounds/se_footstep/se_footstep.yy",},},
